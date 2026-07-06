@@ -22,8 +22,8 @@ You need version 1.11.0 of CardWars for iOS 6.0 (CardWars 1.11.0 iOS IPA)
 
 1. Open Delta Patcher
 2. Original file: select the IPA
-3. XDelta patch: select `CardWarsVita.xdelta`
-4. Apply patch — the output is `CardWarsVita.vpk`
+3. XDelta patch: pick `CardWarsVita.xdelta`
+4. Apply patch — output to `CardWarsVita.vpk`
 5. Copy the VPK to your Vita and install with VitaShell
 
 Saves are stored in `ux0:/data/CardWars/`. They survive updates and reinstalls as they are separate from the app. 
