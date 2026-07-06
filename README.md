@@ -8,12 +8,6 @@ Built with Unity 2017.4 (PSP2), based on the PC port of the decompiled game.
 
 - Runs fine on 444mhz/111mhz
 
-
-## Features
-
-- Game has been converted for the most part into single player. 
-- Mouse controls have been reverted back to touch controls.
-
 ## Installation
 
 No VPK is provided directly. Releases contain an xdelta patch that must be
