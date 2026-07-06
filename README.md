@@ -18,7 +18,7 @@ Built with Unity 2017.4 (PSP2), based on the PC port of the decompiled game.
 
 No VPK is provided directly. Releases contain an xdelta patch that must be
 applied to your own copy of the original game.
-You need the CardWars 1.11.0 iOS IPA file. 
+You need version 1.11.0 of CardWars for iOS 6.0 (CardWars 1.11.0 iOS IPA)
 
 1. Open Delta Patcher
 2. Original file: select the IPA
