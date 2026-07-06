@@ -20,7 +20,7 @@ You need version 1.11.0 of CardWars for iOS 6.0 (CardWars 1.11.0 iOS IPA)
    - XDelta patch: `CardWarsData.xdelta`
    - Output: `CardWarsData.zip`
 3. Extract `CardWarsData.zip` and copy its contents into `ux0:app/CWRS00001/`
-   — merge with the existing files
+   and merge with the existing files
 4. Launch Card Wars
 
 Saves are stored in `ux0:/data/CardWars/`. They survive updates and reinstalls as they are separate from the app. 
