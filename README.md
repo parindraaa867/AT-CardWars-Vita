@@ -6,7 +6,7 @@ Built with Unity 2017.4 (PSP2), based on the PC port of the decompiled game.
 
 <img width="960" height="544" alt="2026-07-03-032940" src="https://github.com/user-attachments/assets/ea72ac49-2bb3-4322-9760-7fb5a0589401" />
 
-- Runs fine on 444mhz/111mhz
+- Runs fine on 444mhz/166mhz CPU/GPU
 
 ## Installation
 
