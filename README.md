@@ -27,3 +27,5 @@ and merge with the existing files
 
 
 Saves are stored in `ux0:/data/CardWars/`. Saves survive updates and reinstalls as they are separate from the game's actual data files. 
+
+Thanks to [Standard-Republic264](https://www.reddit.com/user/Standard-Republic264/) for the LiveArea assets!
