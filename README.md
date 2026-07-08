@@ -12,7 +12,7 @@ Built with Unity 2017.4 (PSP2), based on the PC port of the decompiled game.
 
 No VPK is provided directly. Release contain an xdelta patch that must be
 applied to your own copy of the original game.
-You need version 1.11.0 of CardWars for iOS 6.0 (CardWars 1.11.0 iOS IPA)
+You need version 1.11.0 of CardWars for iOS 6.0 (CardWars 1.11.0 iOS IPA) (MUST BE ORIGINAL GAME FILES)
 
 1. Install `CardWars_Stub.vpk` on your Vita with VitaShell
 2. Download [xdelta3](https://github.com/jmacd/xdelta) ([Windows builds here](https://github.com/jmacd/xdelta-gpl/releases)) and put `xdelta3.exe`, the IPA and `CardWarsData.xdelta` in the same folder
