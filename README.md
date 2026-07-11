@@ -18,7 +18,7 @@ You need version 1.11.0 of CardWars for iOS 6.0 (CardWars 1.11.0 iOS IPA) (MUST 
 2. Download [xdelta3](https://github.com/jmacd/xdelta) ([Windows builds here](https://github.com/jmacd/xdelta-gpl/releases)) and put `xdelta3.exe`, the IPA and `CardWarsData.xdelta` in the same folder
 3. Open a command prompt in that folder and run:     
 
-`xdelta3 -d -B 536870912 -s Card_Wars_1.11.0_ios_6.0.ipa CardWarsData.xdelta CardWarsData.zip`
+`./xdelta3 -d -B 536870912 -s Card_Wars_1.11.0_ios_6.0.ipa CardWarsData.xdelta CardWarsData.zip`
 
 4. Extract `CardWarsData.zip` and copy its contents into `ux0:app/CWRS00001/`
 and merge with the existing files
