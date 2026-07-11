@@ -24,7 +24,7 @@ You need version 1.11.0 of CardWars for iOS 6.0 (CardWars 1.11.0 iOS IPA) (MUST 
 and merge with the existing files
 5. Launch Card Wars
 
-
+[Installation Demo](https://drive.google.com/file/d/1pTfwrNhZsajl1y8N1ueGMW7Qr0Hu6Ejy/view?usp=sharing)
 
 Saves are stored in `ux0:/data/CardWars/`. Saves survive updates and reinstalls as they are separate from the game's actual data files. 
 
