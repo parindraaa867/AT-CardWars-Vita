@@ -1,6 +1,6 @@
 # Card Wars: Adventure Time — PS Vita Port
 
-A native PS Vita port of *Card Wars: Adventure Time*. Originally released for iOS/Android and shut down along with its servers, this port was meant to get the PC Port running on Vita hardware for a bounty. 
+A native PS Vita port of *Card Wars: Adventure Time*. Originally released for iOS/Android and shut down along with its servers, this port was meant to get the PC Port running on Vita hardware. 
 
 Built with Unity 2017.4 (PSP2), based on the PC port of the decompiled game.
 
